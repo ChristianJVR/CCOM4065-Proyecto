@@ -7,6 +7,10 @@ máximo indicado para cada variable ó se alcance la cantidad máxima de iteraci
 programa podrá repetirse mientras el usuario así lo desea, solicitando toda la información necesaria
 para cada corrida.
 
+## Requisitos
+- Compilador de C++ compatible con C++11 o superior
+- libreria: Eigen y IOstream
+
 ## El programa debe leer:
 - cantidad de ecuaciones
 - cantidad de variables
@@ -21,3 +25,7 @@ para cada corrida.
 - mostrar los valores aproximados de la solución y el error de cada variable en cada iteración
 - repetir 2 y 3 hasta que el error relativo sea menor o igual al máximo indicado ó se alcance la cantidad máxima de iteraciones
 - mostrar el total de iteraciones que se necesitaron para llegar a la solución
+
+## Integrantes:
+- Christian J. Vélez Román
+- Bryan Atiles Mendoza
