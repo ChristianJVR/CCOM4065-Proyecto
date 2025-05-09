@@ -1,5 +1,5 @@
 #include <iostream>
-#include <Eigen/Dense>  // Ahora el compilador lo encontrará globalmente
+#include <Eigen/Dense>
 
 using Eigen::MatrixXd;
 
