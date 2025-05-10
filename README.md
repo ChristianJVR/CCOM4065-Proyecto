@@ -28,4 +28,4 @@ para cada corrida.
 
 ## Integrantes:
 - Christian J. Vélez Román
-- Bryan Atiles Mendoza
+- Bryan J. Atiles Mendoza
