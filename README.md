@@ -16,12 +16,12 @@ para cada corrida.
 Usa el siguiente comando para compilar el programa (ajusta la ruta si es necesario):
 
 ```sh
-g++ -I./Eigen main.cpp -o main
+g++ -I./Eigen seidel.cpp -o seidel
 ```
 
 - `-I./Eigen` le indica al compilador dónde encontrar los archivos de cabecera de Eigen.
-- `main.cpp` es tu archivo fuente principal.
-- `-o main` especifica el nombre del ejecutable generado.
+- `seidel.cpp` es tu archivo fuente principal.
+- `-o seildel` especifica el nombre del ejecutable generado.
 
 ## El programa debe leer:
 - cantidad de ecuaciones
