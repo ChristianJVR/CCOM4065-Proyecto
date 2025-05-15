@@ -40,4 +40,4 @@ g++ -I./Eigen main.cpp -o main
 
 ## Integrantes:
 - Christian J. Vélez Román
-- Bryan Atiles Mendoza
+- Bryan J. Atiles Mendoza
