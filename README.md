@@ -11,6 +11,18 @@ para cada corrida.
 - Compilador de C++ compatible con C++11 o superior
 - libreria: Eigen y IOstream
 
+## Como compilar:
+
+Usa el siguiente comando para compilar el programa (ajusta la ruta si es necesario):
+
+```sh
+g++ -I./Eigen main.cpp -o main
+```
+
+- `-I./Eigen` le indica al compilador dónde encontrar los archivos de cabecera de Eigen.
+- `main.cpp` es tu archivo fuente principal.
+- `-o main` especifica el nombre del ejecutable generado.
+
 ## El programa debe leer:
 - cantidad de ecuaciones
 - cantidad de variables
